@@ -1,0 +1,39 @@
+{
+  "name": "rhapsody.js",
+  "version": "1.0.0",
+  "description": "A client side JavaScript library for managing playback of licensed Rhapsody/Napster audio content.",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "example",
+    "test": "test",
+    "source": "src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-include": "^2.3.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "readable-stream": "^3.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rhapsody/rhapsody.js.git"
+  },
+  "author": "Rhapsody International, Inc.",
+  "contributors": [
+    {
+      "name": "Daniel Duda"
+    },
+    {
+      "name": "Christian Nunciato"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Rhapsody/rhapsody.js/issues"
+  },
+  "homepage": "https://github.com/Rhapsody/rhapsody.js"
+}
